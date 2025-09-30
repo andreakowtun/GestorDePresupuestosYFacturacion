@@ -22,7 +22,7 @@ npm install
 
 
 - Crear archivo .env con tus variables de entorno:
-DATABASE_URL=https://railway.com/project/844fbfde-41b7-46cd-bec8-fb7cebe580c6/service/85cdff55-4bc0-406b-b07c-93a62239b91f/variables?environmentId=75502e27-9916-4d4c-b5d6-a9da6cd66b7f
+MYSQL_PUBLIC_URL=mysql://root:hiTldtmGCTveftkzokONLWBVbvsjNGKj@shortline.proxy.rlwy.net:40422/railway
 PORT=3000
 
 
