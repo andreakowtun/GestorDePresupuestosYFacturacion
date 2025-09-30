@@ -11,22 +11,21 @@ Este proyecto es una API RESTful desarrollada con Node.js, Express y Sequelize, 
 - Node.js v20 o superior
 - Acceso a internet (para conectar con la base de datos en Railway)
 
-1. Clonar el repositorio:
 
-```bash
+1. Clonar el repositorio:
 git clone https://github.com/andreakowtun/GestorDePresupuestosYFacturacion.git
 cd GestorDePresupuestosYFacturacion
 
-- Instalar dependencias:
+2. Instalar dependencias:
 npm install
 
 
-- Crear archivo .env con tus variables de entorno:
+3. Crear archivo .env con tus variables de entorno:
 MYSQL_PUBLIC_URL=mysql://root:hiTldtmGCTveftkzokONLWBVbvsjNGKj@shortline.proxy.rlwy.net:40422/railway
 PORT=3000
 
 
-- Ejecutar el servidor:
+4. Ejecutar el servidor:
 node app.js
 
 ## Endpoints disponibles
