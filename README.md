@@ -4,7 +4,7 @@ Este proyecto es una API RESTful desarrollada con Node.js, Express y Sequelize, 
 
 ---
 
-## 🚀 Instalación y ejecución
+## Instalación y ejecución
 
 ### Requisitos
 
